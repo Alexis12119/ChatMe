@@ -10,7 +10,7 @@ class ChatBuddy {
     this.storageKey = "chatme-history";
 
     // Google Gemini API Configuration
-    this.apiKey = "AIzaSyDJRlpU5Fe-M-etvej0gE8qShWRwR0Hoz0";
+    this.apiKey = "";
     this.apiUrl =
       "https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent";
 
