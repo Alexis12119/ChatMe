@@ -1,4 +1,4 @@
-# ChatMe - Discord-Style AI Chatbot Mini Project – ITPROFEL5
+# ChatMe - Discord-Style AI Chatbot Mini Project – ITPROFEL5 Final Project
 
 ## Project Overview
 
